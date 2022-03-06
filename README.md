@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @VeredPich
 - I’m a Talent Acquisition Specialist @ Bright Data
 - 👀 I’m currently looking for outdtanding JS\JAVA\Swift developers for a fully remote position
+-  
+Our recruiting process has 3 stages: 1 Home task, followed by 2 technical
+interviews with one of our developers
+
 - 📫 How to reach me:
 - PM- https://www.linkedin.com/in/vered-galili-pich-02b696195
 - OR
